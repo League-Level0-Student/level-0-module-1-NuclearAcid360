@@ -8,7 +8,7 @@ public static void main (String[] args) {
 	JOptionPane.showMessageDialog(null, "Happy Birthday Stranger");
 	}
 	else {
-	JOptionPane.showMessageDialog(null, "Happy UnBirthday Stranger");
+	JOptionPane.showMessageDialog(null, "Happpy Birthday Stranger");
 	}
 }
 }
