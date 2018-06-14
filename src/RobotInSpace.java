@@ -1,5 +1,4 @@
 
-
 	import java.awt.KeyEventDispatcher; 
 	import java.awt.KeyboardFocusManager; 
 	import java.awt.event.KeyEvent; 
@@ -26,7 +25,7 @@ import org.jointheleague.graphical.robot.Robot;
 	    // 2. Print out the keyPressed variable and write down the numbers for each arrow key
 System.out.println(keyPressed);
 	    // 3. If the up arrow is pressed, move the Robot up the screen.
-		if key
+		if
 	    // 4. If the down arrow is pressed, move the Robot down.
 
 	    // 5. If the left arrow is pressed, make the Robot go left.

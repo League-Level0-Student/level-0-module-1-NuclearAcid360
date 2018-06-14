@@ -15,11 +15,29 @@ public class XGeeks {
 public static void main(String[] args) {
 
 		// 1. Save the superpower for each person in a variable.
-
+String Daniel = "SUPER Strong";
+String Kevin = "Invisible";
+String Tra = "SUPER Tall";
+String Yen = "Levetation";
+String Diego = "SUPER SUPER Lucky";
 		// 2. Ask the user to enter a name. Store their answer in a variable.
-
+String name = JOptionPane.showInputDialog("Enter a name of someone at your table");
 		// 3. Show the superpower in a pop-up, depending on the name entered. 
-
+if(name.equals("Kevin")) {
+JOptionPane.showMessageDialog(null, Kevin);
+}
+if(name.equals("Yen")) {
+JOptionPane.showMessageDialog(null, Yen);
+}
+if(name.equals("Tra")) {
+JOptionPane.showMessageDialog(null, Tra);
+}
+if(name.equals("Daniel")) {
+JOptionPane.showMessageDialog(null, Daniel);
+}
+if(name.equals("Diego")) {
+JOptionPane.showMessageDialog(null, Diego);
+}
 	}
 }
 
